@@ -1,6 +1,6 @@
 import telebot, os, requests
 
-api_key = '5403078159:AAG1KF79NlxR24cMJrBGlzMlEIi-N7UgVXY'
+api_key = 'telegram api key'
 bot = telebot.TeleBot(api_key)
 
 def extract_arg(arg):
